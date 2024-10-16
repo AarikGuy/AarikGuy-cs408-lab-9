@@ -2,23 +2,17 @@
 
 ## Overview
 
-TODO: Write a project description
+We had to make a collision ball game that is interactive and designed to have users 
+control a ball to destroy other balls. The environment itself is filled 
+with colorful bouncing balls that change color upon collision. 
+
+## Directions
+
+To check out the bouncing balls game, go ahead and clone the repository with: git clone https://github.com/AarikGuy/AarikGuy-cs408-lab-9.git
+
+Then click on 'Show Preview' and give the game a try.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Classes in Javascript: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
+- Helped me understand the drawing: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics
